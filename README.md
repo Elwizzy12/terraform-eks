@@ -48,6 +48,4 @@ Run the following command to create an EKS cluster:
 ```bash
 terraform apply
 ```
-## Conclusion
-This guide shows how to set up an EKS cluster using Terraform on AWS provider.
                      
